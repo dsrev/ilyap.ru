@@ -1,0 +1,82 @@
+@import url('fonts/sansation_regular/stylesheet.css');
+
+html {
+    font-family: 'sansationregular', sans-serif;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    background-color: #121212;
+    color: #EDEDED;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+a {
+    color: #EDEDED;
+    text-decoration: none;
+}
+
+a:hover, .link {
+    text-decoration: underline;
+}
+
+.content {
+    margin: auto;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.content-big {
+    margin: auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+.logo {
+    width: 45px;
+}
+
+.logo-big {
+    width: 450px;
+}
+
+.socials a {
+    padding: 5px;
+    color: #EDEDED;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+/* the dark theme will be default. */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #EDEDED;
+        color: #121212;
+    }
+
+    .logo, .logo-big {
+        filter: invert();
+    }
+
+    a {
+        color: #121212;
+    }
+
+    .socials a {
+        color: #121212;
+    }
+}

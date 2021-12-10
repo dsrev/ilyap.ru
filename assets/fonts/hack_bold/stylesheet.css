@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'hackbold';
+    src: url('Hack-Bold-webfont.eot');
+    src: url('Hack-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Hack-Bold-webfont.woff2') format('woff2'),
+         url('Hack-Bold-webfont.woff') format('woff'),
+         url('Hack-Bold-webfont.ttf') format('truetype'),
+         url('Hack-Bold-webfont.svg#hackbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
