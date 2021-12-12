@@ -4,7 +4,7 @@ html {
     font-family: 'sansationregular', sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
     margin: 0;
 }
 
@@ -12,6 +12,7 @@ body {
     margin: 0;
     background-color: #121212;
     color: #EDEDED;
+    line-height: 1.5;
 }
 
 .center {
@@ -44,7 +45,12 @@ a:hover, .link {
 }
 
 .logo {
+    margin-top: 5px;
     width: 45px;
+}
+
+ul {
+    padding-left: 14px;
 }
 
 .logo-big {
