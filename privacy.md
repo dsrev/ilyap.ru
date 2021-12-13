@@ -8,7 +8,7 @@ I am **strongly** against the use of proprietary analytics services like Google 
 
 As for Cloudflare... meh. It would be good for small sites that need protection from DDoS attacks, but not for my site. I'm not talking about unpleasant situations related to Cloudflare (if you're interested - find it yourself)...
 
-And... This site is hosted by... GitHub. Yes, that's right, **GitHub**. I'm tired of paying about $15 every year just to host my static website(s). GitHub may or may not keep track of whether or not you've visited my site. Honestly - I don't know. But I do know that they don't embed something like Google Analysis out of nowhere.
+And... This site is hosted by... Codeberg. I'm tired of paying about $15 every year just to host my static website(s). Codeberg server log files may contain client IP addresses, but the files are automatically deleted every 7 days ([read](https://codeberg.org/codeberg/org/src/branch/main/PrivacyPolicy.md#ip-logging)). It is also worth mentioning that the data is not transferred to third parties.
 
 ## You definitely keep everything in one place, don't you?
 
