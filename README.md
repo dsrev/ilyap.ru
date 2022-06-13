@@ -1,4 +1,4 @@
-# [dsrev.github.io](https://dsrev.github.io)
+# [holoniix.github.io](https://holoniix.github.io)
 
 Just a lil fun personal website I wrote in October out of boredom. **Supports light and dark theme** :sun_with_face: :crescent_moon:! (depends on system or browser settings, otherwise shows a dark theme)
 

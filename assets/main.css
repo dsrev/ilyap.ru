@@ -1,4 +1,4 @@
-@import url('https://dsrev.github.io/assets/fonts/sansation_regular/stylesheet.css');
+@import url('https://holoniix.github.io/assets/fonts/sansation_regular/stylesheet.css');
 
 html {
     font-family: 'sansationregular', sans-serif;
@@ -34,7 +34,7 @@ a:hover, .link {
 
 .content {
     margin: auto;
-    max-width: 500px;
+    max-width: 520px;
     padding: 20px;
 }
 
